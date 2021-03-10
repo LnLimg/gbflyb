@@ -14,8 +14,8 @@ Copyright © [Cygames, Inc.](https://www.cygames.co.jp/)
 
 ### ＊非營利宣告＊NON-PROFIT STATEMENT
 
-我們不會使用這些圖片盈利。  
-我们不会使用这些图片盈利。  
+我們不會使用這些圖片營利。  
+我们不会使用这些图片營利。  
 We won't use these images to make profits or money.  
 これらの画像を利益や金儲けに使用することはありません。  
 
