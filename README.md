@@ -10,7 +10,7 @@ Images in this folder are just for [Granblue Fantasy Unofficial Library](https:/
 版權為 [Cygames, Inc.](https://www.cygames.co.jp/) 所有。  
 版权为 [Cygames, Inc.](https://www.cygames.co.jp/) 所有。  
 Copyright © [Cygames, Inc.](https://www.cygames.co.jp/)  
-著作権は [Cygames、Inc。](https://www.cygames.co.jp/) が所有しています。  
+著作権は [Cygames, Inc.](https://www.cygames.co.jp/) が所有しています。  
 
 ### ＊非營利宣告＊NON-PROFIT STATEMENT
 
